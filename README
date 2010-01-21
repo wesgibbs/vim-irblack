@@ -1,4 +1,4 @@
-This is a version of Infinite Red's vim theme (git@github.com:wgibbs/vim-irblack.git) packaged to work with Tim Pope's pathogen plugin (http://www.vim.org/scripts/script.php?script_id=2332).
+This is a version of Infinite Red's vim theme (http://blog.infinitered.com/entries/show/8) packaged to work with Tim Pope's pathogen plugin (http://www.vim.org/scripts/script.php?script_id=2332).
 
 To use it (assuming you're using pathogen):
 
